@@ -35,15 +35,15 @@ features:
 
   - title: Detailed when needed
     description: Images and links even!
-    fontawesome_icon_name: mobile
+    fontawesome_icon_name: file-invoice
 
   - title: Filter to your heart's conent
     description: Sort/filter by amount, date, title and status.
-    fontawesome_icon_name: play-circle
+    fontawesome_icon_name: filter
 
   - title: Notifies you when due*
     description: Never miss a contribution
-    fontawesome_icon_name: sync
+    fontawesome_icon_name: dot-circle
 
   - title: Takes care of your eyes
     description: Sypports dark mode
@@ -51,16 +51,16 @@ features:
 
   - title: Adapts to your personality
     description: App icons and accent colors
-    fontawesome_icon_name: star
+    fontawesome_icon_name: paint-roller
 
   - title: Biometrics
     description: Secure app with Face ID/Touch ID
-    fontawesome_icon_name: arrow-alt-circle-down
+    fontawesome_icon_name: fingerprint
 
   - title: Synchronize goals across devices
     description: iCloud Sync
     fontawesome_icon_name: sync
-    
+
 # Theme Settings
 topbar_color: '#000000'
 topbar_transparency: 0.1
