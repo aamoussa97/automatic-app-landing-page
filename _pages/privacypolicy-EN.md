@@ -2,12 +2,14 @@
 layout: page
 title: Privacy Policy - EN
 include_in_header: false
+include_in_footer: false
 ---
 
 **Last updated**
 31/8/2020
 
 # Privacy Policy - EN
+
 ## Information collected and reasoning
 
 Savings does not collect any information. No data is send from or to your device, ergo no network calls are performed. Savings does not serve ads and does not make use of any external analytics services either, therefore all functionality is performed locally on your device. If this were to change in the future, updates to the privacy policy will be issued and users notified.

@@ -1,14 +1,17 @@
 ---
 layout: page
-title: Privacy Policy - DA 
+title: Privacy Policy - DA
 include_in_header: false
+include_in_footer: false
 ---
 
 **Sidst opdateret**
 31/8/2020
 
 # Privatlivspolitik - DA
+
 ## Information indsamlet samt ræsonnement
+
 Savings indsamler ej information. Intet data bliver send fra eller til din enhed, ergo ingen netværkskald udføres. Savings serverer ej reklamer og gør hellere ikke brug af nogen eksterne analyse services, dermed udføres all funktionalitet lokalt på din enhed. Hvis dette skulle ændre sig i fremtiden, vil en opdatering til privatlivspolitikken finde sted, og brugere notificeret.
 
 ## Førsteparts sider og services
