@@ -12,8 +12,8 @@ include_in_footer: true
 
 ## English - EN
 
-[PrivacyPolicy-EN](PrivacyPolicy/PrivacyPolicy-EN.md)
+[PrivacyPolicy-EN](https://aamoussa97.github.io/savings-app-landing-page/privacypolicy-EN)
 
 ## Danish - DA
 
-[PrivacyPolicy-DA](PrivacyPolicy/PrivacyPolicy-DA.md)
+[PrivacyPolicy-DA](https://aamoussa97.github.io/savings-app-landing-page/privacypolicy-DA)
