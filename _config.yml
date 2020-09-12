@@ -58,7 +58,7 @@ features:
     fontawesome_icon_name: fingerprint
 
   - title: Synchronize goals across devices
-    description: Synchronize goals with all Apple devices connected to the same Apple ID
+    description: Synchronize goals with devices connected to the same Apple ID
     fontawesome_icon_name: sync
 
 # Theme Settings
