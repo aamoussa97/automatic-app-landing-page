@@ -4,7 +4,7 @@ title: Support
 include_in_header: false
 ---
 
-# App Support
+# Support
 
 ## Contact
 
