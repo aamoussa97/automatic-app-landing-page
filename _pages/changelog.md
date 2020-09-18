@@ -7,8 +7,6 @@ include_in_footer: true
 
 # Changelog
 
-### `Initial Release`
-
 ## **Version 1.0.2**
 
 New
@@ -37,6 +35,8 @@ Improved
 Bug Fixes
 
 - Fixed an issue with filter/sort menu not visible when biometrics is enabled.
+
+### `Initial Release`
 
 ## **Version 1.0.0**
 
