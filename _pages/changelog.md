@@ -7,6 +7,14 @@ include_in_footer: true
 
 # Changelog
 
+## **Version 1.0.3**
+
+Bug Fixes
+
+- Corrected visual layout due to changes in iOS 14.
+
+Thanks so much for using Savings! If you have a moment to leave a review in the App Store, we would really appreciate it.
+
 ## **Version 1.0.2**
 
 New
