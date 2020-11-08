@@ -7,6 +7,32 @@ include_in_footer: true
 
 # Changelog
 
+## **Version 1.0.5**
+
+New
+- Color picker option under appearance section in settings for custom accent colours in iOS 14. Due to a technical limitation in the implementation, it’s not possible to close/swipe down the color picker window. Once a custom accent color has been selected, kindly restart the application for changes to take effect. 
+- Toggle for marking goals as completed automatically based on hitting target goal, both in settings and create/edit goal.
+
+Bug Fixes
+- Corrected logic in regards to calculating contribution additions and whether to mark a goal as complete.
+- Corrected logic which prevented contributions past target amount. 
+- Corrected visual layout bug in regards to a “big white block” appearing over the keyboard in iOS 14.
+
+Thanks so much for using Savings! If you have a moment to leave a review in the App Store, we would really appreciate it.
+
+## **Version 1.0.4**
+
+New
+- Color picker option under appearance section in settings for custom accent colours in iOS 14.
+- Toggle for marking goals as completed automatically based on hitting target goal, both in settings and create/edit goal.
+
+Bug Fixes
+- Corrected logic in regards to calculating contribution additions and whether to mark a goal as complete.
+- Corrected logic which prevented contributions past target amount. 
+- Corrected visual layout bug in regards to a “big white block” appearing over the keyboard in iOS 14.
+
+Thanks so much for using Savings! If you have a moment to leave a review in the App Store, we would really appreciate it.
+
 ## **Version 1.0.3**
 
 Bug Fixes
