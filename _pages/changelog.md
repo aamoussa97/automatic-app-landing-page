@@ -13,7 +13,7 @@ Happy New Year! This update may take some by surprise after a long period of rad
 
 #### New
 
-General
+#### General
 
 - Dropped iOS 13 support as user base is low, allowing for a more unified experience across the board.
 - Toast message (drop down banner) will be shown in some occasions after executed actions.
